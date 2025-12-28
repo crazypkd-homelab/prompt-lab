@@ -10,3 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial project structure.
 - README.md and changelog.md files.
+- Populated all markdown files with sample prompts.
+
+### Changed
+- Updated README.md with a detailed project description.
